@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "097359dd27b204b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fbdf748a0f3e97f7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ada9e5d76455cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter - 1 Intro & Motivation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "60e1b48b0b44634f",
+    "type": "split",
+    "children": [
+      {
+        "id": "66fc51a4012a7597",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0af778c0e50413dd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ce7ea142ebe74398",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "88da095d3c5e67ea",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b75bb633ad50c17",
+    "type": "split",
+    "children": [
+      {
+        "id": "20efa679ef3f9106",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "130c9add543f779d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Chapter - 1 Intro & Motivation"
+            }
+          },
+          {
+            "id": "321f4a54f7f6b95a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Chapter - 1 Intro & Motivation"
+            }
+          },
+          {
+            "id": "ff68a591da063a05",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5f5ea7bc676686a7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Chapter - 1 Intro & Motivation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "6ada9e5d76455cd8",
+  "lastOpenFiles": [
+    "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+    "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+    "Untitled",
+    "MachineLearningMathematics",
+    "2025-04-19.md",
+    "Welcome.md"
+  ]
+}
