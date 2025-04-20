@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "fbdf748a0f3e97f7",
+        "id": "4ad06365f949baa8",
         "type": "tabs",
         "children": [
           {
-            "id": "6ada9e5d76455cd8",
+            "id": "d0fc448983d0bdae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearningMathematics/mml-book.md",
+                "file": "AcademicPapersReading/Machine Learning-Driven Electricity Theft Detection in Smart Homes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "mml-book"
+              "title": "Machine Learning-Driven Electricity Theft Detection in Smart Homes"
+            }
+          },
+          {
+            "id": "543c25f1cd9c9dc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AcademicPapersReading/Machine Learning-Driven Electricity Theft Detection in Smart Homes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning-Driven Electricity Theft Detection in Smart Homes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 299.5,
-    "collapsed": true
+    "width": 299.5
   },
   "right": {
     "id": "0b75bb633ad50c17",
@@ -170,11 +184,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6ada9e5d76455cd8",
+  "active": "543c25f1cd9c9dc5",
   "lastOpenFiles": [
+    "AcademicPapersReading/Untitled.md",
+    "AcademicPapersReading/Machine Learning-Driven Electricity Theft Detection in Smart Homes.md",
+    "Extreme Gradient Boost (XGB).md",
+    "AcademicPapersReading/Findings.md",
+    "ElectricityTheft.md",
+    "AcademicPapersReading",
     "MachineLearningMathematics/mml-book.md",
     "MachineLearningMathematics/mml-book.md",
-    "Untitled",
     "MachineLearningMathematics",
     "2025-04-19.md",
     "Welcome.md"
