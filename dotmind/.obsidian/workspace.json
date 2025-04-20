@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "file": "MachineLearningMathematics/mml-book.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter - 1 Intro & Motivation"
+              "title": "mml-book"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5,
+    "collapsed": true
   },
   "right": {
     "id": "0b75bb633ad50c17",
@@ -94,17 +95,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "file": "MachineLearningMathematics/mml-book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chapter - 1 Intro & Motivation"
+              "title": "Backlinks for mml-book"
             }
           },
           {
@@ -113,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "file": "MachineLearningMathematics/mml-book.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Chapter - 1 Intro & Motivation"
+              "title": "Outgoing links from mml-book"
             }
           },
           {
@@ -142,16 +143,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+                "file": "MachineLearningMathematics/mml-book.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chapter - 1 Intro & Motivation"
+              "title": "Outline of mml-book"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -170,8 +172,8 @@
   },
   "active": "6ada9e5d76455cd8",
   "lastOpenFiles": [
-    "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
-    "MachineLearningMathematics/Chapter - 1 Intro & Motivation.md",
+    "MachineLearningMathematics/mml-book.md",
+    "MachineLearningMathematics/mml-book.md",
     "Untitled",
     "MachineLearningMathematics",
     "2025-04-19.md",
